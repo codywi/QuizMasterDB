@@ -300,9 +300,7 @@ INSERT INTO `questions` (`id`, `topic`, `question`, `choice_1`, `choice_2`, `cho
 (233, 'Python','what would python print?','11','10','200','13','10', 'Images/Python/wwpp5.png'),
 (234, 'Python','what would python print?','\','\\\','\\\n','n','\', 'Images/Python/wwpp6.png'),
 (235, 'Python','what would python print?','4','1 2 3 4','1234','12345','1234', 'Images/Python/wwpp7.png'),
-(236, 'Python','what would python print?','4','1 2 3 4','1234','12345','1234', 'Images/Python/wwpp7.png'),
-
-;
+(236, 'Python','what would python print?','4','1 2 3 4','1234','12345','1234', 'Images/Python/wwpp7.png');
 
 -- --------------------------------------------------------
 
